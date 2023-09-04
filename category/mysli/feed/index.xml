@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Мысли - Алена Нагель</title>
+	<atom:link href="/category/mysli/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Иллюстратор книг, комиксов и веб</description>
+	<lastBuildDate>Fri, 25 Dec 2020 07:15:38 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/06/А..png</url>
+	<title>Мысли - Алена Нагель</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">184329570</site>	<item>
+		<title>Жёлтый единорог и подкроватный монстр</title>
+		<link>/unicorn-and-monster/</link>
+					<comments>/unicorn-and-monster/#comments</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Thu, 24 Dec 2020 11:06:57 +0000</pubDate>
+				<category><![CDATA[Мысли]]></category>
+		<guid isPermaLink="false">/?p=666</guid>
+
+					<description><![CDATA[<p>Как проблемы становятся переменами</p>
+<p>The post <a href="/unicorn-and-monster/">Жёлтый единорог и подкроватный монстр</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/unicorn-and-monster/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">666</post-id>	</item>
+	</channel>
+</rss>

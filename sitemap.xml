@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Эта карта сайта была сгенерирована динамически 4 сентября, 2023 в 5:22 пп плагином All in One SEO v4.4.5.1 — оригинальным плагином SEO для WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-02-07T09:40:50+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2021-12-03T12:47:51+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/project-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2021-02-17T08:40:35+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/post-archive-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2021-02-17T08:40:35+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-02-07T09:40:50+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/post_tag-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-02-07T09:40:50+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

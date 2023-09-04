@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Жёлтый единорог и подкроватный монстр	</title>
+	<atom:link href="/unicorn-and-monster/feed/" rel="self" type="application/rss+xml" />
+	<link>/unicorn-and-monster/</link>
+	<description>Иллюстратор книг, комиксов и веб</description>
+	<lastBuildDate>Wed, 09 Jun 2021 13:08:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Valentina		</title>
+		<link>/unicorn-and-monster/#comment-13</link>
+
+		<dc:creator><![CDATA[Valentina]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2021 13:08:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=666#comment-13</guid>
+
+					<description><![CDATA[Алёна, отличные статьи<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b50.png" alt="⭐" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Интересно читать. Все изучила и записала самое для себя важное. Спасибо, что поделилась<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f49b.png" alt="💛" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Алёна, отличные статьи⭐️ Интересно читать. Все изучила и записала самое для себя важное. Спасибо, что поделилась💛</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
