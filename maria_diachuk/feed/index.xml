@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: &#171;искусство может создать и понять только человек&#187;. Интервью с Машей Дячук	</title>
+	<atom:link href="/maria_diachuk/feed/" rel="self" type="application/rss+xml" />
+	<link>/maria_diachuk/</link>
+	<description>Иллюстратор книг, комиксов и веб</description>
+	<lastBuildDate>Sun, 13 Feb 2022 21:50:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Полина		</title>
+		<link>/maria_diachuk/#comment-32</link>
+
+		<dc:creator><![CDATA[Полина]]></dc:creator>
+		<pubDate>Sun, 13 Feb 2022 21:50:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1659#comment-32</guid>
+
+					<description><![CDATA[Маша мой кумир! ♥️ Отличное интересное интервью.]]></description>
+			<content:encoded><![CDATA[<p>Маша мой кумир! ♥️ Отличное интересное интервью.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
