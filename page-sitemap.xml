@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Эта карта сайта была сгенерирована динамически 4 сентября, 2023 в 6:14 пп плагином All in One SEO v4.4.5.1 — оригинальным плагином SEO для WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2021-01-21T10:30:05+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2020/06/Facebook.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/l/]]></loc>
+		<lastmod><![CDATA[2021-12-03T12:47:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2020/12/img_0037.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/d-project/]]></loc>
+		<lastmod><![CDATA[2020-10-18T19:06:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>

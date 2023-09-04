@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Как написать холодное письмо в издательство или компанию	</title>
+	<atom:link href="/cold-email/feed/" rel="self" type="application/rss+xml" />
+	<link>/cold-email/</link>
+	<description>Иллюстратор книг, комиксов и веб</description>
+	<lastBuildDate>Mon, 19 Jun 2023 18:09:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Егор Нагель-Зисер		</title>
+		<link>/cold-email/#comment-36</link>
+
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Mon, 19 Jun 2023 18:09:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1459#comment-36</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/cold-email/#comment-33&quot;&gt;Юлия&lt;/a&gt;.
+
+Посмотрите эту статью /artist-portfolio/]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/cold-email/#comment-33">Юлия</a>.</p>
+<p>Посмотрите эту статью <a href="/artist-portfolio/" rel="ugc">/artist-portfolio/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Юлия		</title>
+		<link>/cold-email/#comment-33</link>
+
+		<dc:creator><![CDATA[Юлия]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 21:30:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1459#comment-33</guid>
+
+					<description><![CDATA[Благодарю <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+А как грамотно оформить портфолио?]]></description>
+			<content:encoded><![CDATA[<p>Благодарю 🙏<br />
+А как грамотно оформить портфолио?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Алена Нагель		</title>
+		<link>/cold-email/#comment-12</link>
+
+		<dc:creator><![CDATA[Алена Нагель]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 12:53:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1459#comment-12</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/cold-email/#comment-11&quot;&gt;Елена&lt;/a&gt;.
+
+<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64c-1f3fb.png" alt="🙌🏻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f49a.png" alt="💚" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/cold-email/#comment-11">Елена</a>.</p>
+<p>🙌🏻💚</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Елена		</title>
+		<link>/cold-email/#comment-11</link>
+
+		<dc:creator><![CDATA[Елена]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 09:11:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1459#comment-11</guid>
+
+					<description><![CDATA[Благодарю<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Благодарю🙏🙏🙏</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

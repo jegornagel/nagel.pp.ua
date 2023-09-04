@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>D-проект - Алена Нагель</title>
+	<atom:link href="/category/d-project/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Иллюстратор книг, комиксов и веб</description>
+	<lastBuildDate>Sat, 05 Dec 2020 16:14:51 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/06/А..png</url>
+	<title>D-проект - Алена Нагель</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">184329570</site>	<item>
+		<title>Немецкие тоннели в Партизанской балке. Mennonitische Tunnel in Partisan Gully</title>
+		<link>/mennonite_tunnel/</link>
+					<comments>/mennonite_tunnel/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sat, 05 Dec 2020 11:49:15 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=588</guid>
+
+					<description><![CDATA[<p>Тоннели из гранита 1902г. на окраине Верхней Хортицы. Возвели их в Партизанской балке меннониты в связи с постройкой железной дороги.</p>
+<p>The post <a href="/mennonite_tunnel/">Немецкие тоннели в Партизанской балке. Mennonitische Tunnel in Partisan Gully</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/mennonite_tunnel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
+		<item>
+		<title>Немецкое кладбище на о. Хортица. Mennonite cemetery on the island of Khortitsa. Mennonitischer Friedhof auf der Insel Khortitsa</title>
+		<link>/mennonite-cemetery-khortytsya/</link>
+					<comments>/mennonite-cemetery-khortytsya/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2020 11:01:26 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=485</guid>
+
+					<description><![CDATA[<p>Меннонитское кладбище на острове Хортица. Использовалось немцами до 1916 года.</p>
+<p>The post <a href="/mennonite-cemetery-khortytsya/">Немецкое кладбище на о. Хортица. Mennonite cemetery on the island of Khortitsa. Mennonitischer Friedhof auf der Insel Khortitsa</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/mennonite-cemetery-khortytsya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">485</post-id>	</item>
+		<item>
+		<title>Немецкая колония Розенталь. German colony Rosenthal. Deutsche Kolonie Rosenthal</title>
+		<link>/german-colony-rosenthal/</link>
+					<comments>/german-colony-rosenthal/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2020 21:51:04 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=402</guid>
+
+					<description><![CDATA[<p>Rosenthal — долина роз. Меннанитская колония на территории Верхней Хортицы.</p>
+<p>The post <a href="/german-colony-rosenthal/">Немецкая колония Розенталь. German colony Rosenthal. Deutsche Kolonie Rosenthal</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/german-colony-rosenthal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">402</post-id>	</item>
+		<item>
+		<title>Захоронение немецких военнопленных г. Запорожье. Der Grabkammerlegung deutscher Kriegsgefangener. Burial of German prisoners of war</title>
+		<link>/german-burial/</link>
+					<comments>/german-burial/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2020 17:24:56 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=276</guid>
+
+					<description><![CDATA[<p>Захоронение немецких солдат и военнопленных в промзоне г. Запорожье.</p>
+<p>The post <a href="/german-burial/">Захоронение немецких военнопленных г. Запорожье. Der Grabkammerlegung deutscher Kriegsgefangener. Burial of German prisoners of war</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/german-burial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">276</post-id>	</item>
+		<item>
+		<title>Немецкая колония Шенвизе. German colony Schönwiese. Deutsche Kolonie Schönwiese</title>
+		<link>/kolonie-schonwiese/</link>
+					<comments>/kolonie-schonwiese/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2020 20:10:09 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=259</guid>
+
+					<description><![CDATA[<p>Schönwiese — красивый луг. Немецкая колония, которая находится в старой части г. Запорожье.</p>
+<p>The post <a href="/kolonie-schonwiese/">Немецкая колония Шенвизе. German colony Schönwiese. Deutsche Kolonie Schönwiese</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/kolonie-schonwiese/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">259</post-id>	</item>
+		<item>
+		<title>Затерянное еврейское кладбище. Lost Jewish cemetery</title>
+		<link>/jew_cemetery/</link>
+					<comments>/jew_cemetery/#respond</comments>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sun, 05 Dec 0202 11:49:58 +0000</pubDate>
+				<category><![CDATA[D-проект]]></category>
+		<guid isPermaLink="false">/?p=630</guid>
+
+					<description><![CDATA[<p>Одно из самых старых еврейских кладбищь Запорожской области. В стадии реконструкции.</p>
+<p>The post <a href="/jew_cemetery/">Затерянное еврейское кладбище. Lost Jewish cemetery</a> first appeared on <a href="/">Алена Нагель</a>.</p>]]></description>
+		
+					<wfw:commentRss>/jew_cemetery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">630</post-id>	</item>
+	</channel>
+</rss>
